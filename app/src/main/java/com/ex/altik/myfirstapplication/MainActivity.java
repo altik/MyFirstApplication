@@ -1,9 +1,7 @@
 package com.ex.altik.myfirstapplication;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
